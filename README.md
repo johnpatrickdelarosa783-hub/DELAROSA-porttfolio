@@ -1,6 +1,5 @@
 # DELAROSA-porttfolio
-About I'm a BSIT student with a strong interest in exploring the world of technology and continuous learning. I enjoy discovering new skills and applying them both in school and in my hobbies. Outside academics, I like creating digital art, playing online games, and being active in volleyball. I value friendship, creativity, and growth in everything I do.
-
+About I'm a BSIT student with a strong interest in exploring the world of technology and continuous learning. I enjoy discovering new skills and applying them both in school and in my hobbies. 
 Portfolio Sections Home– Introduction and short overview
 Activities – Activities that done Contact – How to reach me
 
