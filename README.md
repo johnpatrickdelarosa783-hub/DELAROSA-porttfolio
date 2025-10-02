@@ -6,7 +6,7 @@ Activities – Activities that done Contact – How to reach me
 🔗 https://johnpatrickdelarosa783-hub.github.io/DELAROSA-porttfolio/
 
 Repository
-🔗[ GitHub Repository](https://github.com/johnpatrickdelarosa783-hub/DELAROSA-porttfolio)
+🔗(https://github.com/johnpatrickdelarosa783-hub/DELAROSA-porttfolio)
 
 Technologies Used
 
