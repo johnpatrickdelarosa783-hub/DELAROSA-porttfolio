@@ -7,7 +7,7 @@ Activities – Activities that done Contact – How to reach me
 🔗 https://johnpatrickdelarosa783-hub.github.io/DELAROSA-porttfolio/
 
 Repository
-🔗 GitHub Repository
+🔗[ GitHub Repository](https://github.com/johnpatrickdelarosa783-hub/DELAROSA-porttfolio)
 
 Technologies Used
 
@@ -18,4 +18,4 @@ Reflection
 This project helped me understand how to use GitHub for version control and hosting. I learned how to structure a responsive website, upload files to a repository, and deploy using GitHub Pages. It also gave me hands-on experience in making my portfolio accessible online, which will be useful for future professional opportunities.
 
 Contact
-📧 Email: your-email@example.com
+📧 Email: johnpatrickdelarosa783@gmail.com
